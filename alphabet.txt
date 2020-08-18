@@ -1,3 +1,6 @@
 letter a
 letter b
 letter c
+letter d
+letter e
+letter f
