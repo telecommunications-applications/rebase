@@ -4,6 +4,10 @@ letter c
 letter d
 letter e
 letter f
+letter j
+letter k
+letter l
 letter g
 letter h
 letter i
+
