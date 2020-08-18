@@ -7,3 +7,7 @@ letter f
 letter j
 letter k
 letter l
+letter g
+letter h
+letter i
+
